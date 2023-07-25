@@ -1,0 +1,15 @@
+.new{
+ background-color: darkgreen;
+ height: auto;
+
+}
+.h{
+    border: 3px solid gold;
+    width: fit-content;
+  position: relative;
+  background-color: whitesmoke;
+  top : 10px;
+  left: 36%;
+  padding: 6px;
+  border-radius: 18px;    
+}

@@ -1,0 +1,43 @@
+
+
+.ev {
+    display: flex;
+    justify-content: space-between;
+    background-color: lightcoral;
+    align-items: center;
+    border: 1px solid salmon;
+    max-width:40%;
+    max-height: 11em;
+    border: 4px solid black;   
+    margin: auto;
+   margin-bottom: 10px;
+   margin-top: 8px;
+  
+    
+}
+
+
+.ex {
+    margin-bottom: 19em;
+    align-items: center;
+    flex: 1;
+    justify-content: flex-start;
+    flex-flow: column-reverse;
+    margin-left: 8em;
+  
+    
+
+     
+}
+
+.price {
+    border: 3px solid rebeccapurple;
+    padding: 5px;
+    display: inline;
+    border-radius: 10px;
+    box-shadow: 15px ;
+    background-color: bisque;
+    border: 3px solid black;
+   
+}
+
