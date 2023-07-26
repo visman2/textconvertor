@@ -1,0 +1,16 @@
+.dat {
+    border-radius: 10px;
+    border: 2px solid black;
+    height: auto;
+    width:6em;
+    box-shadow: inset;
+    color: goldenrod;
+    background-color: brown;
+    font-family: cursive;
+    font-size: small;
+    text-align: center;
+    margin-top: 300px;
+    margin-left: 10px;
+  
+     
+}

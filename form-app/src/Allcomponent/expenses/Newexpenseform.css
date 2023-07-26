@@ -1,0 +1,11 @@
+.newexpenseform{
+    background-color: gold;
+    padding: 1rem;
+    margin : 4rem ;
+    width: 20rem;
+    max-width: 95%;
+    border-radius: 12px;
+    box-shadow: 0 1px 8px black;
+    border: 4px solid black;
+    
+}
